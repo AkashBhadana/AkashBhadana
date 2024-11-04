@@ -26,7 +26,7 @@ I am passionate about the following technologies and practices:
 
 ## 📦 Projects
 Here are a few projects I've worked on:
-- [Project Name 1](link-to-your-project): Brief description of what this project does.
+- [Project Name 1](https://github.com/AkashBhadana/Nodeserver-Prometheus-Grafana): Brief description of what this project does.
 - [Project Name 2](link-to-your-project): Brief description of what this project does.
 
 ## 🌱 I’m currently learning
