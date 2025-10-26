@@ -19,15 +19,15 @@ I am passionate about the following technologies and practices:
 ## 🛠 Skills
 - Cloud Platforms: AWS, Azure
 - Containerization: Docker, Kubernetes
-- Configuration Management: Ansible, Chef
+- Configuration Management: Ansible, Terraform
 - Scripting Languages: Python, Bash
 - CI/CD Tools: Jenkins, GitLab
-- Version Control: Git
+- Version Control: Git and Github
 
 ## 📦 Projects
 Here are a few projects I've worked on:
 - [Project Name 1](https://github.com/AkashBhadana/Nodeserver-Prometheus-Grafana): Brief description of what this project does.
-- [Project Name 2](link-to-your-project): Brief description of what this project does.
+- [Project Name 2](https://github.com/AkashBhadana/AWS-Node.js-Deployment): Brief description of what this project does.
 
 ## 🌱 I’m currently learning
 I'm continuously expanding my knowledge in:
