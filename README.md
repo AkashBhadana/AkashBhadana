@@ -39,7 +39,7 @@ I'm continuously expanding my knowledge in:
 I’m always open to collaborating on interesting projects. Feel free to reach out if you want to discuss ideas or work together!
 
 ## 📫 How to reach me
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/akashbhadana/)
 - [Twitter](your-twitter-profile)
 
 Thank you for visiting my GitHub profile! 🚀
