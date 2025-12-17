@@ -45,7 +45,7 @@ Here are a few projects I've worked on:
 ## 🌱 I’m currently learning
 
 I'm always looking to expand my skill set and am currently focused on:
-- Advanced Kubernetes and Cloud-Native ecosystem (e.g., Service Mesh, GitOps).
+- Advanced Kubernetes and Cloud-Native ecosystem (e.g., Service Mesh, GitOps,MLOps).
 - Deepening my knowledge of DevSecOps practices.
 - Exploring advanced monitoring and observability with OpenTelemetry.
 
