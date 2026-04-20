@@ -40,7 +40,7 @@ Here are some of the technologies I'm proficient in:
 Here are a few projects I've worked on:
 
 - **[Nodeserver-Prometheus-Grafana](https://github.com/AkashBhadana/Nodeserver-Prometheus-Grafana)**: A project to monitor a Node.js server with Prometheus and visualize metrics in Grafana.
-- **[AWS-Node.js-Deployment](https://github.com/AkashBhadana/AWS-Node.js-Deployment)**: A sample project demonstrating the deployment of a Node.js application to AWS.
+- **[Stripe-Checkout-Microservice-AWS-ECS-Ready-CI-CD](https://github.com/AkashBhadana/AWS-Node.js-Deployment)**: A sample project demonstrating the deployment of a Node.js application to AWS.
 
 ## 🌱 I’m currently learning
 
